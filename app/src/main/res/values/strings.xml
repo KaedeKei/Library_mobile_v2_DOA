@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Library_mobile_v2</string>
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+    <string name="default_web_client_id">388878809390-nq650776j9aul57riiuotnnk93p5f46h.apps.googleusercontent.com</string>
+</resources>
